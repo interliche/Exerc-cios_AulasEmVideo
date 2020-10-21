@@ -8,6 +8,7 @@ while True:
     if (valor % 2 == 0):
         pares.append(valor)
         valores.append((valor))
+        
     else:
         impares.append(valor)
         valores.append(valor)
