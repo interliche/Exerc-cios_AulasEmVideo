@@ -1,4 +1,4 @@
-valor = 0
+valor = 1
 valores = list()
 pares = list()
 impares = list()
